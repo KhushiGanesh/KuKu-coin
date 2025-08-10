@@ -100,4 +100,4 @@ token-system/
 - **Token Name**: KuKu Coin
 - **Token Symbol**: K
 
-Start by logging in as `admin` to mint K tokens to other users, or creat
+Start by logging in as `admin` to mint K tokens to other users, or create regular user accounts to receive and transfer tokens!
